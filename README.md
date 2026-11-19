@@ -5,6 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.1%2B-150458?style=flat&logo=pandas&logoColor=white)
 ![ERA5-Land](https://img.shields.io/badge/Climate%20Data-ECMWF%20ERA5--Land-0055A4?style=flat)
 ![xAI](https://img.shields.io/badge/Modeling-Cox%20PH%20%7C%20Quasi--Binomial%20%7C%20SHAP-2E8B57?style=flat)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://turtlenestingdynamicsproject-jj2yn6fyg2elekby2uwlcr.streamlit.app/)
 
 An end-to-end **Data Engineering, Thermodynamic Simulation, and eXplainable AI (xAI)** platform designed to analyze sea turtle incubation dynamics and hatching survival in the Mexican Caribbean (**Riviera Maya**, 2018–2024).
 
